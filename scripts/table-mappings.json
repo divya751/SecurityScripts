@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "rule-type": "selection",
+      "rule-id": 836110206,
+      "rule-name": 836110206,
+      "object-locator": {
+        "schema-name": "ticketruter",
+        "table-name": "%"
+      },
+      "rule-action": "include",
+      "filters": []
+    }
+  ]
+}
